@@ -24,7 +24,7 @@ I’m a Computer Science & Artificial Intelligence undergraduate passionate abou
 
 **B.Tech, Computer Science and Artificial Intelligence**
 Chalapathi Institute of Engineering and Technology, Guntur
-CGPA: 8.4 &nbsp;|&nbsp; Graduating 2027
+CGPA: 7.91 &nbsp;|&nbsp; Graduating 2027
 
 ---
 
