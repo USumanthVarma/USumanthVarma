@@ -62,7 +62,7 @@ I’m a Computer Science & Artificial Intelligence undergraduate passionate abou
 - 📊 **Data Fundamentals** — IBM SkillsBuild
 - 🤖 **Artificial Intelligence Fundamentals** — IBM SkillsBuild
 - ☁️ **Cloud Computing** — NPTEL
-
+  
 ---
 
 ## 🌐 Find Me Online
